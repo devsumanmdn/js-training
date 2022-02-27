@@ -28,3 +28,7 @@ h1:hover {
   background-color: #222222;
   transition-duration: 0.3s;
 }
+
+.percent {
+  margin-left: 10px;
+}
