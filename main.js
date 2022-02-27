@@ -39,7 +39,7 @@ const intervalId = setInterval(() => {
         </span>
         <div class="bar" id="bar-${index}" style="width: 0%">
         </div>
-        <span class="percent">${Math.floor(countPercent)}%</span>
+        <span class="percent">${charCount}</span>
       </div>
     `;
       })
